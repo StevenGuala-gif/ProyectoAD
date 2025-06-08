@@ -1,10 +1,10 @@
 # Proyecto de Comunicaciones A/D - Grupo 2
 
-## 👥 Integrantes
+## Integrantes
 - [Steven Guala]
 - [Edison Navarro]
 
-## 🧠 Objetivo
+## Objetivo
 Diseñar un sistema de adquisición y transmisión de señales usando:
 - Sensor MQ-2 (gas)
 - Sensor HC-SR04 (ultrasonido)
@@ -13,13 +13,13 @@ Diseñar un sistema de adquisición y transmisión de señales usando:
 - Alertas por Telegram
 - Procesamiento MATLAB
 
-## ⚙️ Componentes
+## ⚙Componentes
 - NodeMCU ESP8266
 - Sensor MQ-2
 - Sensor HC-SR04
 - Software: Arduino IDE, InfluxDB, Grafana, MATLAB
 
-## 🔌 Conexiones
+## Conexiones
 
 | Sensor    | Pin ESP8266 |
 |-----------|-------------|
@@ -29,14 +29,14 @@ Diseñar un sistema de adquisición y transmisión de señales usando:
 | VCC       | VIN         |
 | GND       | GND         |
 
-## 🧪 Funcionalidad
+## Funcionalidad
 - Cuantización adaptativa del gas
 - Envío de datos a InfluxDB
 - Alertas por Telegram si hay gas o distancia crítica
 - Análisis FFT y SNR en MATLAB
 
 
-## 📎 Archivos incluidos
+## Archivos incluidos
 - codigo.ino → Código del ESP8266
 - esquema.png → Diagrama de conexiones
 - README.md → Este archivo
