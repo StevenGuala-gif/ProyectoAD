@@ -25,7 +25,7 @@ Diseñar un sistema de adquisición y transmisión de señales usando:
 |-----------|-------------|
 | MQ-2      | A0          |
 | HC-SR04 TRIG | D5        |
-| HC-SR04 ECHO | D6 (con divisor resistivo) |
+| HC-SR04 ECHO | D6  |
 | VCC       | VIN         |
 | GND       | GND         |
 
