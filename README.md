@@ -13,7 +13,7 @@ Diseñar un sistema de adquisición y transmisión de señales usando:
 - Alertas por Telegram
 - Procesamiento MATLAB
 
-## ⚙Componentes
+## Componentes
 - NodeMCU ESP8266
 - Sensor MQ-2
 - Sensor HC-SR04
@@ -40,4 +40,4 @@ Diseñar un sistema de adquisición y transmisión de señales usando:
 - codigo.ino → Código del ESP8266
 - esquema.png → Diagrama de conexiones
 - README.md → Este archivo
--
+
